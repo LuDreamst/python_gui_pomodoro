@@ -1,0 +1,2 @@
+# python_gui_pomodoro
+python tkinter实现番茄钟的用户图形界面
