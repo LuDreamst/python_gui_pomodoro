@@ -1,6 +1,9 @@
 # python_gui_pomodoro
 一个使用python tkinter实现番茄钟的用户图形界面  
 #### 效果如果所示：  
+v1.0版本效果图：  
+![屏幕截图(411)](https://user-images.githubusercontent.com/53106447/210064961-a3b8c40a-3f9e-4378-9f41-3b3f476e9e67.png)  
+v2.0版本效果图：  
 ![屏幕截图(414)](https://user-images.githubusercontent.com/53106447/210064461-8bb6fcc5-bf4e-4b60-b7de-47fd0fafb219.png)  
 #### 如何使用：  
 1.输入框输入设定时长  
