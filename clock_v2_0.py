@@ -8,6 +8,7 @@ style = Style(theme='journal')
 
 # root = tkinter.Tk()
 root = style.master
+root.wm_attributes('-topmost',1)
 # root.title("Pomodoro")
 width_gui = 300
 height_gui = 120
